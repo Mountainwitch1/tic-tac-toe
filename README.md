@@ -40,4 +40,4 @@ python tictac.py
 Feel free to fork the repository and submit pull requests for any improvements or features you would like to add.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](LICENSE).
